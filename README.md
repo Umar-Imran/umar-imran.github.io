@@ -5,6 +5,16 @@ Static personal portfolio hosted on GitHub Pages. No build step or JavaScript is
 ## Files
 
 - `index.html`: portfolio, accessible disclosures and public profile metadata.
+- `resume.html`: accessible HTML résumé.
+- `Muhammad-Umar-Imran-Resume.pdf`: selectable-text résumé for download.
+- `resume.html`: accessible HTML résumé.
+- `Muhammad-Umar-Imran-Resume.pdf`: selectable-text résumé for download.
+- `resume.html`: accessible HTML résumé.
+- `Muhammad-Umar-Imran-Resume.pdf`: selectable-text résumé for download.
+- `resume.html`: accessible HTML résumé.
+- `Muhammad-Umar-Imran-Resume.pdf`: selectable-text résumé for download.
+- `resume.html`: accessible HTML résumé.
+- `Muhammad-Umar-Imran-Resume.pdf`: selectable-text résumé for download.
 - `portrait.jpg`, `social-card.png`, `favicon.svg`, `favicon.png`: public visual assets.
 - `robots.txt`, `sitemap.xml`: crawler discovery.
 
